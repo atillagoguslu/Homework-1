@@ -1,0 +1,22 @@
+HTML
+    Head
+    Body
+        Header
+            h1 (WebStudio)
+            nav
+                a link + h2
+                a link + h2
+                a link + h2                
+            address
+                a mailto
+                p
+        Sections
+            h1
+            p
+            img
+            a
+            button
+        Footer
+
+
+        
